@@ -1,0 +1,74 @@
+body{
+    margin: 0px;
+}
+h1{
+    font-family: 'Indie Flower', cursive;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 1%;
+    font-size: 60px;
+}
+
+.blue-text{
+    color: #0f569e;
+}
+.bbt{
+    text-align: center;
+    border-bottom:5px solid rgb(90, 90, 252);
+    
+    
+}
+.sheldon-himself{
+    display: flex;
+    background-image: url(images/bg-1.jpg);
+    height: 600px;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 160px;
+    font-size: 18px;
+        
+}
+.half-width img{
+    width: 100%;
+    margin-top: -50px;
+}
+.bazinga{
+    color: rgb(255, 139, 31);
+    font-size: 25px;
+    font-family: 'Hind Madurai', sans-serif;
+}
+.leonard {
+    display: flex;
+    background-image: url(images/bg-2.jpg);
+    height: 600px;
+}
+.howard{
+    display: flex;
+    background-image: url(images/bg-3.jpg);
+    height: 600px;
+}
+.half-width2{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 160px;
+    font-size: 18px;
+        
+}
+.half-width2 img{
+    width: 90%;
+    margin-top: -50px;
+}
+.half-width3{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 160px;
+    font-size: 18px;
+        
+}
+.half-width3 img{
+    width: 70%;
+    margin-top: -50px;
+}
