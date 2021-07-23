@@ -72,3 +72,38 @@ h1{
     width: 70%;
     margin-top: -50px;
 }
+.raj{
+    display: flex;
+    background-image: url(images/bg-4.jpg);
+    height: 600px;
+}
+.half-width4{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 150px;
+    
+}
+.half-width4 img{
+    width: 100%;
+    margin-top: -180px;
+}
+.three-girls{
+    display: flex;
+    background-color: rgb(143, 157, 238);
+    height: 500px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width5{
+    width: 50%;
+    
+    margin-top: 100px;
+    
+}
+.half-width5 img{
+    width: 80%;
+}
+footer{
+    margin-top: 100px;
+    text-align: center;
+}
